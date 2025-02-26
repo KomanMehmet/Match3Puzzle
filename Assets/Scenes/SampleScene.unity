@@ -370,6 +370,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 511f2ee0c5ae4ca469db4445bd19d6b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileAddressableKeys:
+  - Blue
+  - Green
+  - Purple
+  - Red
+  - Yellow
+  gridWidth: 8
+  gridHeight: 8
+  tileSpacing: 1.1
 --- !u!4 &2055919763
 Transform:
   m_ObjectHideFlags: 0
